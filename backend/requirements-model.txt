@@ -1,0 +1,4 @@
+# Thư viện cần cài thêm để chạy model (ngoài những gì đã cài trước đó)
+onnxruntime
+pillow
+numpy

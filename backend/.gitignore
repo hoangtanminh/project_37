@@ -1,0 +1,4 @@
+venv/
+.env
+waste.db
+__pycache__/
